@@ -11,6 +11,7 @@ How to get your shared_secret & identity_secret:
 Commands: !Commands !Level !Check [Keys] !Check !Buy !Buytf !Buypubg !Buygems !Csgobuyany !Tfbuyany !Pubgbuyany !gemsbuyany !gemsbuyone !Csgobuyone !Tfbuyone !Pubgbuyone !Selltf !Sell !Sellgems
 
 Admin Commands: !Admin !Withdraw !Withdrawtf !Withdrawgems !Deposit !TFDeposit !Depositgems !Block !Unblock !Restart !Shutdown
+
 Custom Rates / Config / Game Playing [H]800 SETS [W] 14:1 GEMS etc..
 
 Setup: This is a Node.JS program and you will need Node installed https://nodejs.org/en/ Make sure the Config.Json is filled out correctly including Shared Secret and Identity, How do you get this? it's provded by SDA (Steam Desktop Authenticator) or WinAuth WinAuth: https://winauth.com/ SDA: https://github.com/Jessecar96/SteamDesktopAuthenticator WinAuth, After adding account to WinAuth right click the Account --> Show Steam Guard And Recovery Code --> Allow Copy --> Details are in the window under Device ID: Set the rates in Rates.Json example 14:1 shown in Config.
